@@ -1,0 +1,12 @@
+.topicBox{
+    background-color: rgb(243, 146, 239);
+    width: 80%;
+    height: 100px;
+    border-radius: 10px;
+}
+.text{
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    color: white;
+    margin-left: 30px;
+}
